@@ -2,7 +2,7 @@
 
 I'm enthusiastic about trees and time complexity!
 
-- 🌱 I’ve recently finished an 8-month fullstack bootcamp with a RAG-chatbot project and am continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
+- 🌱 Recently finished an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
 - 🔭 Finished a hands-on raycasting project, having teamed up for creation of a "3D" game using MiniLibX!
 - 🔭 Starting to learn some C++ 98
 
