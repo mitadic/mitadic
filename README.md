@@ -2,9 +2,9 @@
 
 I'm enthusiastic about data structures and time complexity
 
-- 🌱 Recently finished an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Finished a hands-on raycasting project, having teamed up for creation of a "3D" game using MiniLibX!
-- 🔭 Starting to learn some C++ 98
+- 🔭 Recently finished an 8-month fullstack bootcamp and continuing my SE studies at [42 Berlin](https://42berlin.de/de/)
+- 🔭 Finished a deepdive into C++ 98
+- 🌱 Replicating NGINX together with a great team of 3 and learning about Docker theory on the side
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitadic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
