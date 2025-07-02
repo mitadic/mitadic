@@ -2,10 +2,9 @@
 
 I'm enthusiastic about data structures and time complexity
 
-- 🔭 Recently finished an 8-month fullstack + AI bootcamp and finishing my SE studies at [42 Berlin](https://42berlin.de/de/)
-- 🔭 Finished a deepdive into C++ 98
-- 🔭 Learned me some multi-container Docker (manual layering `FROM debian:oldstable`)
-- 🌱 Replicating NGINX together with a great team of 3
+- 🔭 Automating deployment of a Docker network on AWS using Ansible
+- 🌱 Researching LLM workflows and building with MCP
+- 💬 Ask me about *true microservices architecture* 😄
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitadic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
