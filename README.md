@@ -3,8 +3,8 @@
 I'm enthusiastic about data structures and time complexity
 
 - 🔭 Automating deployment of a Docker network on AWS using Ansible
-- 🌱 Researching LLM workflows and building with MCP
-- 💬 Ask me about *true microservices architecture* 😄
+- 🌱 Researching LLM workflows and building prototypes with MCP
+- 💬 Ask me about *true microservices architecture* 🤓
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitadic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
